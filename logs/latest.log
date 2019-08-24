@@ -1,49 +1,74 @@
-[01:24:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:24:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:24:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:24:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:24:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:24:10] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[01:24:10] [Server thread/INFO]: Loading properties
-[01:24:10] [Server thread/INFO]: Default game type: SURVIVAL
-[01:24:10] [Server thread/INFO]: Generating keypair
-[01:24:10] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[01:24:10] [Server thread/INFO]: Using default channel type
-[01:24:12] [Server thread/INFO]: Preparing level "world"
-[01:24:12] [Server thread/INFO]: Reloading ResourceManager: Default
-[01:24:12] [Server thread/INFO]: Loaded 6 recipes
-[01:24:12] [Server thread/INFO]: Loaded 811 advancements
-[01:24:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:24:13] [Server thread/INFO]: Preparing spawn area: 0%
-[01:24:13] [Server thread/INFO]: Preparing spawn area: 0%
-[01:24:14] [Server thread/INFO]: Preparing spawn area: 0%
-[01:24:17] [Server-Worker-5/INFO]: Preparing spawn area: 83%
-[01:24:17] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[01:24:17] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[01:24:17] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[01:24:17] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[01:24:17] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[01:24:17] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[01:24:18] [Server-Worker-3/INFO]: Preparing spawn area: 95%
-[01:24:18] [Server-Worker-2/INFO]: Preparing spawn area: 95%
-[01:24:19] [Server-Worker-5/INFO]: Preparing spawn area: 97%
-[01:24:19] [Server thread/INFO]: Time elapsed: 6208 ms
-[01:24:19] [Server thread/INFO]: Done (7.224s)! For help, type "help"
-[01:26:02] [User Authenticator #1/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
-[01:26:02] [Server thread/INFO]: JellyTofuFish[/127.0.0.1:60382] logged in with entity id 238 at (-28.197821507779192, 83.0, 215.55418235570073)
-[01:26:02] [Server thread/INFO]: JellyTofuFish joined the game
-[01:27:45] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
-[01:27:45] [Server thread/INFO]: JellyTofuFish left the game
-[01:27:52] [Server thread/INFO]: Stopping the server
-[01:27:52] [Server thread/INFO]: Stopping server
-[01:27:52] [Server thread/INFO]: Saving players
-[01:27:52] [Server thread/INFO]: Saving worlds
-[01:27:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:27:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:27:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:27:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:27:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:27:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:27:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:27:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:27:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:50:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:50:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:50:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:50:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:50:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:50:49] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[01:50:49] [Server thread/INFO]: Loading properties
+[01:50:49] [Server thread/INFO]: Default game type: SURVIVAL
+[01:50:49] [Server thread/INFO]: Generating keypair
+[01:50:49] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[01:50:49] [Server thread/INFO]: Using default channel type
+[01:50:50] [Server thread/INFO]: Preparing level "world"
+[01:50:50] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:50:51] [Server thread/INFO]: Loaded 6 recipes
+[01:50:51] [Server thread/INFO]: Loaded 811 advancements
+[01:50:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:50:52] [Server thread/INFO]: Preparing spawn area: 0%
+[01:50:52] [Server thread/INFO]: Preparing spawn area: 0%
+[01:50:52] [Server thread/INFO]: Preparing spawn area: 0%
+[01:50:53] [Server thread/INFO]: Preparing spawn area: 42%
+[01:50:56] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[01:50:56] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[01:50:56] [Server thread/INFO]: Preparing spawn area: 83%
+[01:50:56] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[01:50:56] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[01:50:56] [Server thread/INFO]: Preparing spawn area: 83%
+[01:50:56] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[01:50:57] [Server-Worker-2/INFO]: Preparing spawn area: 95%
+[01:50:57] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[01:50:58] [Server-Worker-7/INFO]: Preparing spawn area: 96%
+[01:50:58] [Server thread/INFO]: Time elapsed: 6754 ms
+[01:50:58] [Server thread/INFO]: Done (7.849s)! For help, type "help"
+[01:51:25] [User Authenticator #1/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
+[01:51:25] [Server thread/ERROR]: Unable to parse Stat data from .\world\stats\eae0f57a-f5fe-4e18-9a90-d5d4bf923d28.json
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[server.jar:?]
+	at yu.a(SourceFile:83) [server.jar:?]
+	at yu.<init>(SourceFile:51) [server.jar:?]
+	at xv.a(SourceFile:789) [server.jar:?]
+	at vl.<init>(SourceFile:170) [server.jar:?]
+	at xv.g(SourceFile:413) [server.jar:?]
+	at we.c(SourceFile:111) [server.jar:?]
+	at we.b(SourceFile:63) [server.jar:?]
+	at jc.a(SourceFile:230) [server.jar:?]
+	at wb.c(SourceFile:171) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:847) [server.jar:?]
+	at uk.b(SourceFile:343) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:774) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:642) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:593) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425) ~[server.jar:?]
+	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[server.jar:?]
+	... 14 more
+[01:51:25] [Server thread/INFO]: JellyTofuFish[/127.0.0.1:61605] logged in with entity id 235 at (-27.30000001192093, 83.0, 215.66991406057693)
+[01:51:25] [Server thread/INFO]: JellyTofuFish joined the game
+[01:51:39] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
+[01:51:39] [Server thread/INFO]: JellyTofuFish left the game
+[01:51:44] [Server thread/INFO]: Stopping the server
+[01:51:44] [Server thread/INFO]: Stopping server
+[01:51:44] [Server thread/INFO]: Saving players
+[01:51:44] [Server thread/INFO]: Saving worlds
+[01:51:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:51:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:51:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:51:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:51:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:51:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:51:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:51:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:51:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
