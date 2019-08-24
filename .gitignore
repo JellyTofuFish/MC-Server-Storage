@@ -1,2 +1,2 @@
-
-.server.properties
+# Don't track content of these folders
+server.properties
