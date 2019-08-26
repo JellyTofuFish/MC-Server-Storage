@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "52ff33a2-1b1b-4f88-a0f2-b41dab98e706",
+    "name": "LustruousRiver",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "eae0f57a-f5fe-4e18-9a90-d5d4bf923d28",
     "name": "JellyTofuFish",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0ce84f5e-1ad9-4d45-b9a5-567d984949cc",
+    "name": "Paragon_Ellis",
     "level": 4,
     "bypassesPlayerLimit": false
   }
