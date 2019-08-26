@@ -1,45 +1,82 @@
-[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:03:19] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[05:03:19] [Server thread/INFO]: Loading properties
-[05:03:19] [Server thread/INFO]: Default game type: SURVIVAL
-[05:03:19] [Server thread/INFO]: Generating keypair
-[05:03:19] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[05:03:20] [Server thread/INFO]: Using default channel type
-[05:03:20] [Server thread/INFO]: Preparing level "MP_with_seed"
-[05:03:21] [Server thread/INFO]: Reloading ResourceManager: Default, Auto-Plant_Saplings_1.0.zip, Crop_Harvesting_1.0.zip, Killer_Bunny_1.0.zip, Mobcutter_1.0.zip, Trader_Notify_1.0.zip, larger phantoms v1.0.0.zip, nether portal coords v1.0.0.zip, villager death messages v1.0.0.zip
-[05:03:22] [Server thread/INFO]: Loaded 6 recipes
-[05:03:22] [Server thread/WARN]: Found validation problem in {minecraft:entities/villager}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/villager/villager_head
-[05:03:22] [Server thread/INFO]: Loaded 30 custom command functions
-[05:03:22] [Server thread/INFO]: Loaded 815 advancements
-[05:03:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
-[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
-[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
-[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
-[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
-[05:03:25] [Server thread/INFO]: Preparing spawn area: 65%
-[05:03:25] [Server thread/INFO]: Time elapsed: 2732 ms
-[05:03:25] [Server thread/INFO]: Done (4.609s)! For help, type "help"
-[05:03:52] [User Authenticator #1/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
-[05:03:53] [Server thread/INFO]: JellyTofuFish[/127.0.0.1:54920] logged in with entity id 194 at (-642.8950393659605, 64.0, -1352.1968754671773)
-[05:03:53] [Server thread/INFO]: JellyTofuFish joined the game
-[05:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[05:04:00] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
-[05:04:00] [Server thread/INFO]: JellyTofuFish left the game
-[05:04:10] [Server thread/INFO]: Stopping the server
-[05:04:10] [Server thread/INFO]: Stopping server
-[05:04:10] [Server thread/INFO]: Saving players
-[05:04:10] [Server thread/INFO]: Saving worlds
-[05:04:10] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_end
-[05:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:04:10] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_nether
-[05:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:04:10] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:overworld
-[05:04:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
-[05:04:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:04:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:04:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
+[13:39:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:39:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:39:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:39:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:39:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:39:19] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[13:39:19] [Server thread/INFO]: Loading properties
+[13:39:19] [Server thread/INFO]: Default game type: SURVIVAL
+[13:39:19] [Server thread/INFO]: Generating keypair
+[13:39:19] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[13:39:20] [Server thread/INFO]: Using default channel type
+[13:39:24] [Server thread/INFO]: Preparing level "MP_with_seed"
+[13:39:24] [Server thread/INFO]: Reloading ResourceManager: Default, Auto-Plant_Saplings_1.0.zip, Crop_Harvesting_1.0.zip, Killer_Bunny_1.0.zip, Mobcutter_1.0.zip, Trader_Notify_1.0.zip, larger phantoms v1.0.0.zip, nether portal coords v1.0.0.zip, villager death messages v1.0.0.zip
+[13:39:27] [Server thread/INFO]: Loaded 6 recipes
+[13:39:27] [Server thread/WARN]: Found validation problem in {minecraft:entities/villager}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/villager/villager_head
+[13:40:01] [Server thread/INFO]: Loaded 30 custom command functions
+[13:40:01] [Server thread/INFO]: Loaded 815 advancements
+[13:40:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:10] [Server thread/INFO]: Preparing spawn area: 0%
+[13:40:10] [Server thread/INFO]: Preparing spawn area: 32%
+[13:40:12] [Server thread/INFO]: Time elapsed: 8720 ms
+[13:40:12] [Server thread/INFO]: Done (48.167s)! For help, type "help"
+[13:40:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[13:40:37] [User Authenticator #1/INFO]: UUID of player LustruousRiver is 52ff33a2-1b1b-4f88-a0f2-b41dab98e706
+[13:40:40] [Server thread/INFO]: LustruousRiver[/127.0.0.1:55789] logged in with entity id 192 at (-640.3947694861124, 64.0, -1354.342435556537)
+[13:40:40] [Server thread/INFO]: LustruousRiver joined the game
+[13:40:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5145ms or 102 ticks behind
+[13:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17599ms or 351 ticks behind
+[13:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13:45:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6715ms or 134 ticks behind
+[13:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[13:55:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2449ms or 48 ticks behind
+[14:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[14:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[14:10:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[14:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3107ms or 62 ticks behind
+[14:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[14:26:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
+[14:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[14:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[14:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[14:33:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
+[14:33:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[14:36:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
+[14:41:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[14:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[14:47:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10036, l='MP_with_seed', x=-643.98, y=64.00, z=-1358.55]
+[14:49:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/10333, l='MP_with_seed', x=-647.19, y=64.00, z=-1361.17]
+[14:51:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[14:56:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
+[14:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[15:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
+[15:03:02] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/12309, l='MP_with_seed', x=-642.83, y=64.00, z=-1356.72]
+[15:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
+[15:10:02] [Server thread/INFO]: LustruousRiver lost connection: Disconnected
+[15:10:02] [Server thread/INFO]: LustruousRiver left the game
+[15:10:10] [Server thread/INFO]: Stopping the server
+[15:10:10] [Server thread/INFO]: Stopping server
+[15:10:10] [Server thread/INFO]: Saving players
+[15:10:10] [Server thread/INFO]: Saving worlds
+[15:10:10] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_end
+[15:10:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:10:10] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:overworld
+[15:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
+[15:10:11] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_nether
+[15:10:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:10:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:10:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
+[15:10:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
