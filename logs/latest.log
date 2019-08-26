@@ -1,267 +1,45 @@
-[00:05:02] [Server thread/WARN]: Paragon_Ellis moved too quickly! -8.327914323483753,-2.0,5.411913827639864
-[00:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3218ms or 64 ticks behind
-[00:10:05] [Server thread/WARN]: Paragon_Ellis moved too quickly! -0.1340329609440687,-1.1661092609382138,9.958661483735568
-[00:10:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3461ms or 69 ticks behind
-[00:15:09] [Server thread/WARN]: Paragon_Ellis moved too quickly! -1.004920882225747,0.0,-10.15085311586472
-[00:15:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3613ms or 72 ticks behind
-[00:15:09] [Server thread/WARN]: JellyTofuFish moved wrongly!
-[00:20:11] [Server thread/WARN]: LustruousRiver moved too quickly! -0.48788677174286477,2.249187078744683,9.905757498965613
-[00:20:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
-[00:25:16] [Server thread/WARN]: Paragon_Ellis moved too quickly! 10.103303759301127,-1.127890238205481,-0.04707934872817532
-[00:25:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[00:25:16] [Server thread/WARN]: Paragon_Ellis moved wrongly!
-[00:30:20] [Server thread/WARN]: LustruousRiver moved too quickly! -0.299330725341747,0.25799910351527444,-10.174235786735835
-[00:30:20] [Server thread/WARN]: Paragon_Ellis moved too quickly! 9.991034057258105,-1.0625,1.1073342916799902
-[00:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4103ms or 82 ticks behind
-[00:35:23] [Server thread/WARN]: LustruousRiver moved too quickly! 8.26919871258815,1.1767592750642422,5.708916005221454
-[00:35:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
-[00:36:56] [Server thread/INFO]: JellyTofuFish has made the advancement [Diamonds!]
-[00:40:27] [Server thread/WARN]: Paragon_Ellis moved too quickly! 10.0984756182836,0.0,-1.895966020444348
-[00:40:27] [Server thread/WARN]: LustruousRiver moved too quickly! 3.668809984348883,-0.17675927506424216,9.421966455480401
-[00:40:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
-[00:42:09] [Server thread/INFO]: LustruousRiver lost connection: Disconnected
-[00:42:09] [Server thread/INFO]: LustruousRiver left the game
-[00:42:30] [Server thread/INFO]: Paragon_Ellis was slain by Zombie
-[00:42:45] [User Authenticator #4/INFO]: UUID of player LustruousRiver is 52ff33a2-1b1b-4f88-a0f2-b41dab98e706
-[00:42:45] [Server thread/INFO]: LustruousRiver[/25.15.188.161:53928] logged in with entity id 36194 at (-120.38913084565843, 67.0, -627.0133361846033)
-[00:42:45] [Server thread/INFO]: LustruousRiver joined the game
-[00:43:59] [Server thread/INFO]: [LustruousRiver: Teleported LustruousRiver to Paragon_Ellis]
-[00:44:20] [Server thread/INFO]: [Paragon_Ellis: Teleported Paragon_Ellis to LustruousRiver]
-[00:44:20] [Server thread/WARN]: Paragon_Ellis moved too quickly! -526.5044613767371,2.5,-1154.9601969901307
-[00:45:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
-[00:50:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
-[00:55:35] [Server thread/WARN]: Paragon_Ellis moved too quickly! 2.494795542110296,-1.252203340253729,9.626932599137945
-[00:55:35] [Server thread/WARN]: LustruousRiver moved too quickly! 5.833178375254192,-0.9215999984741217,-8.133455869393629
-[00:55:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
-[01:00:39] [Server thread/WARN]: LustruousRiver moved too quickly! 1.3246644111710566,2.1262573407093797,9.7720079767048
-[01:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3801ms or 76 ticks behind
-[01:05:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
-[01:06:23] [Server thread/INFO]: [Paragon_Ellis: Set own game mode to Creative Mode]
-[01:10:45] [Server thread/WARN]: LustruousRiver moved too quickly! -7.555199742701916,0.792192967283782,-6.661163826545135
-[01:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3051ms or 61 ticks behind
-[01:12:50] [Server thread/INFO]: [Paragon_Ellis: Set own game mode to Survival Mode]
-[01:15:48] [Server thread/WARN]: JellyTofuFish moved too quickly! -3.118866157176967,-3.2315237975870126,8.965301711613733
-[01:15:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
-[01:20:13] [Server thread/INFO]: LustruousRiver has made the advancement [Acquire Hardware]
-[01:20:51] [Server thread/WARN]: Paragon_Ellis moved too quickly! 5.115264277873905,2.0625,-8.713149407292121
-[01:20:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
-[01:24:17] [Server thread/INFO]: Paragon_Ellis was slain by Zombie
-[01:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
-[01:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[01:35:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[01:40:17] [Server thread/INFO]: <Paragon_Ellis> poop
-[01:40:22] [Server thread/INFO]: <Paragon_Ellis> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZzzzzzzzz
-[01:40:36] [Server thread/INFO]: <Paragon_Ellis> y are u gei ?
-[01:41:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
-[01:44:47] [Server thread/INFO]: LustruousRiver has made the advancement [The Parrots and the Bats]
-[01:45:56] [Server thread/INFO]: LustruousRiver has made the advancement [Fishy Business]
-[01:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
-[01:56:16] [Server thread/INFO]: LustruousRiver has made the advancement [A Seedy Place]
-[02:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
-[02:06:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[02:16:08] [Server thread/WARN]: LustruousRiver moved too quickly! 9.770048190529224,-0.9564643798524983,-2.528660125371971
-[02:17:25] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
-[02:17:25] [Server thread/INFO]: JellyTofuFish left the game
-[02:18:04] [User Authenticator #5/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
-[02:18:04] [Server thread/INFO]: JellyTofuFish[/25.106.245.233:53732] logged in with entity id 93960 at (-220.69999998807907, 32.0, -323.567756878706)
-[02:18:04] [Server thread/INFO]: JellyTofuFish joined the game
-[02:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
-[02:25:08] [Server thread/INFO]: Paragon_Ellis has made the advancement [Acquire Hardware]
-[02:32:18] [Server thread/INFO]: <Paragon_Ellis> fag
-[02:36:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
-[02:39:37] [Server thread/INFO]: JellyTofuFish has made the advancement [Best Friends Forever]
-[02:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3084ms or 61 ticks behind
-[02:45:01] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
-[02:45:01] [Server thread/INFO]: JellyTofuFish left the game
-[02:45:32] [Server thread/INFO]: <Paragon_Ellis> bruh
-[02:46:04] [User Authenticator #6/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
-[02:46:04] [Server thread/INFO]: JellyTofuFish[/25.106.245.233:53909] logged in with entity id 105846 at (-431.21829752185346, 64.8500000178814, -1152.9694916356184)
-[02:46:04] [Server thread/INFO]: JellyTofuFish joined the game
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -1.3369524918226148,1.0,9.950152072651235
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -1.231639635867566,1.0,10.403846950279785
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -1.1252544487832097,1.0,10.857474745912214
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -1.0182954786915843,1.0,11.311066647306006
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -0.9110294887527175,1.0,11.764639342408373
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -0.8035992186149201,1.0,12.218201760607144
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -0.6960810454181114,1.0,12.671758679839513
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -0.5885158370469981,1.0,13.125312656684855
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -0.4809254610918856,1.0,13.578865059117334
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -0.3733216184643311,1.0,14.032416619113064
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -0.2657105700889133,1.0,14.485967728337528
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -0.15809566606145609,1.0,14.939518596363314
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -0.050478698951451406,1.0,15.393069335328619
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 0.0571393720728679,1.0,15.846620005236218
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 0.2566151584563272,1.0,16.25892539153483
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 0.5052421768832005,1.0,16.6491612489167
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 0.780169039606676,1.0,17.027588141394062
-[02:46:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 1.0691684246509112,1.0,17.399696292196268
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 7.298042795635013,-2.0,7.022023894377298
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 7.630484120947187,-2.0,7.341891987464123
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 7.967722584142621,-2.0,7.66637578633231
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 8.307527900174762,-2.0,7.993329357336961
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 8.648706687982326,-2.0,8.321604454169801
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 8.990620393152824,-2.0768320014953616,8.650586673124963
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 9.189507173584332,-2.227453458663007,8.841951375263989
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 9.382809983303389,-2.4489423104376016,9.027943297523962
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 9.571133007797641,-2.738492209317357,9.209143774549602
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 9.755015059700384,-3.093407939109099,9.386071240591946
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 9.934936652131853,-3.5111010141305457,9.559188035329726
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 10.11132630670511,-3.989085452684037,9.728906473300185
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 10.284486584238095,-4.0,9.895676552371015
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 10.587892061588775,-4.0,10.207829713253659
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 10.881785598811575,-4.0,10.552618463417048
-[02:56:16] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 11.163028570134713,-4.0,10.920223684149278
-[02:59:50] [Server thread/INFO]: LustruousRiver was slain by Drowned
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 8.806897084193793,1.0,4.907291106203957
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 9.182237107503909,1.0,5.170878250977921
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 9.585650803725287,1.0,5.388905759995396
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 10.004086162592841,1.0,5.582555216280753
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 10.430559313642732,1.0,5.763160462595124
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 10.861333327033094,1.0,5.936786012227458
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 11.29440864611189,1.0,6.106676865325426
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 11.72871534798145,1.0,6.274569356769689
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 12.163680938231266,1.0,6.4413925647359065
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 12.598999086516528,1.0,6.607643620432327
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 12.981684634978194,1.0,6.859310007583872
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 13.336207528655052,1.0,7.156680435599128
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 13.675661147259348,1.0,7.47850618464031
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 14.007051497221198,1.0,7.813417488375762
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 14.334127352896758,1.0,8.155330611530417
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 14.658894608701416,1.0,8.500990268655187
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 14.982426578743684,1.0,8.848654621409423
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 15.358118818602577,1.0,9.111670168098499
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 15.761720978876781,1.0,9.329391826377105
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 16.18025718110141,1.0,9.522877628030074
-[03:01:17] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 16.606784291421036,1.0,9.70339530601359
-[03:01:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[03:05:19] [Server thread/INFO]: LustruousRiver has made the advancement [Isn't It Iron Pick]
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -8.391314167508312,1.0,5.751694934065654
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -8.846494351479862,1.0,5.648482822528877
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -9.30368331499858,1.0,5.629713039498483
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -9.760919859937474,0.9231679985046384,5.661705020393811
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -10.02641256279037,0.7725465413369932,5.68478947931726
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -10.278458278375581,0.5510576895623984,5.721363134768353
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -10.518001765351642,0.26150779068264285,5.770438955719101
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -10.746395764532792,0.0,5.830664208183634
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -11.097768652265017,0.0,6.048967430672974
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -11.433472392263354,0.0,6.330371473324021
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -11.763361477345484,0.0,6.6431970652681684
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -12.14348484557587,0.0,6.884825556707483
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -12.550487577155366,0.0,7.08835789918362
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -12.972450293283941,0.0,7.269902794493873
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -13.402417798874865,0.0,7.439682645207995
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -13.837604948370199,0.0,7.600479176723638
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -14.278008773017348,0.0,7.748911405403987
-[03:06:18] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -14.722765712975672,0.0,7.885274836066856
-[03:06:21] [Server thread/INFO]: LustruousRiver has made the advancement [Diamonds!]
-[03:11:10] [Server thread/INFO]: LustruousRiver has made the advancement [Hot Stuff]
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 5.441734070825646,1.0,8.50846197721421
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 5.51016156217031,1.0,8.974678604934525
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 5.575906439546998,0.9231679985046384,9.443357156020056
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 5.61728106689327,0.7725465413369932,9.715366246417034
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 5.664242750053631,0.5510576895623984,9.977635575788781
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 5.725238097365718,0.26150779068264285,10.221739794277028
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 5.799110693650277,0.0,10.448935747035648
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 6.060249134689229,0.0,10.745577516742287
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 6.3954896759722715,0.0,10.997808524667562
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 6.7745641680148765,0.0,11.216972563769332
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 7.185127741879796,1.0,11.396018968234785
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 7.619173808564483,1.0,11.52370470092319
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 8.067967079634059,1.0,11.600751078272651
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 8.52479681420698,1.0,11.64559221536365
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 8.98592670017058,1.0,11.673200970495373
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 9.449357511407584,1.0,11.691589021617574
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 9.914019501882876,1.0,11.7050432578651
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 10.379340271821548,1.0,11.71585750814279
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 10.844991465522753,1.0,11.726401715203792
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 11.310532074030334,1.0,11.744171563913824
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 11.774756186526702,1.0,11.779940543586463
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 12.236203825041912,1.0,11.838788985820656
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 12.695053644547329,1.0,11.91554884075299
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 13.152391132999128,1.0,12.002461512051923
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 13.608919403256891,1.0,12.094806752963223
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 14.065014676993087,1.0,12.190058853560458
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 14.520878262923475,1.0,12.286866356819019
-[03:11:19] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! 5.803588334470135,1.0,8.14668691209772
-[03:11:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
-[03:12:39] [Server thread/INFO]: LustruousRiver lost connection: Disconnected
-[03:12:39] [Server thread/INFO]: LustruousRiver left the game
-[03:12:56] [User Authenticator #7/INFO]: UUID of player LustruousRiver is 52ff33a2-1b1b-4f88-a0f2-b41dab98e706
-[03:12:56] [Server thread/INFO]: LustruousRiver[/25.15.188.161:54264] logged in with entity id 117240 at (-733.230714598115, 11.0, -1365.300000011921)
-[03:12:56] [Server thread/INFO]: LustruousRiver joined the game
-[03:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2805ms or 56 ticks behind
-[03:20:16] [Server thread/INFO]: Paragon_Ellis fell from a high place
-[03:21:25] [Server thread/WARN]: JellyTofuFish moved too quickly! 4.46417194654768,-0.756759288177264,8.999513635563972
-[03:21:25] [Server thread/WARN]: LustruousRiver moved too quickly! -10.14830918937264,-0.25086736114158725,1.3335520376949717
-[03:21:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
-[03:26:27] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -6.764960197629364,-1.2274534586630068,-7.304285579691168
-[03:26:27] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -6.838277122076107,-1.4489423104376016,-7.5605611301919
-[03:26:27] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -6.909367033762749,-1.7384922093173572,-7.8104731251073645
-[03:26:27] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -6.978470895412698,-2.0,-8.054710100988132
-[03:26:27] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -7.09883438396227,-2.0,-8.485719996926719
-[03:26:27] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -7.262950956108142,-2.0768320014953616,-8.91373117401713
-[03:26:27] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -7.3700234503475315,-2.227453458663007,-9.15362377140741
-[03:26:27] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -7.486624757915536,-2.4489423104376016,-9.374135427627834
-[03:26:27] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -6.815122268594109,-1.3663819003751172,-7.239856639083655
-[03:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
-[03:31:06] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
-[03:31:06] [Server thread/INFO]: JellyTofuFish left the game
-[03:31:35] [User Authenticator #8/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
-[03:31:35] [Server thread/INFO]: JellyTofuFish[/25.106.245.233:54126] logged in with entity id 126331 at (-461.320265411443, 68.875, -1715.2569132544975)
-[03:31:35] [Server thread/INFO]: JellyTofuFish joined the game
-[03:34:22] [Server thread/WARN]: Paragon_Ellis moved too quickly! 0.33928867390437745,-10.408991223757695,0.0016227308988163713
-[03:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[03:37:54] [Server thread/INFO]: JellyTofuFish has made the advancement [Cover Me With Diamonds]
-[03:40:39] [Server thread/WARN]: Horse moved wrongly!
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -10.030763814901206,-1.0,-1.8619671738367742
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -10.429219742289376,-1.0,-2.1002719432860886
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -10.812312504806016,-1.0,-2.362341828786157
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -11.17954014653742,-1.0,-2.6462531287229467
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -11.533680878038354,-1.0,-2.946881431254269
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -11.877268149602685,-1.0,-3.260130999699186
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -12.210340957521623,-1.0,-3.584903546033729
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -12.534055344208184,-1.0,-3.9193033084115996
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -12.845026754153253,-1.0,-4.265536129869133
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -13.141137711688202,-1.0,-4.6244101342574595
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -13.420983852964696,-1.0,-4.995959873784841
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -13.68402336886436,-1.0,-5.379513435457056
-[03:41:31] [Server thread/WARN]: Horse (vehicle of JellyTofuFish) moved too quickly! -13.930232609933284,-1.0,-5.774073374604541
-[03:46:06] [Server thread/INFO]: LustruousRiver has made the advancement [Not Today, Thank You]
-[03:46:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
-[03:56:31] [Server thread/INFO]: LustruousRiver has made the advancement [Ice Bucket Challenge]
-[04:30:03] [Server thread/WARN]: JellyTofuFish moved wrongly!
-[04:31:35] [Server thread/WARN]: JellyTofuFish moved too quickly! 1.6258564351986138,0.0,10.060642431250244
-[04:31:35] [Server thread/WARN]: JellyTofuFish moved too quickly! 1.6211908347863186,0.0,9.907475721926858
-[04:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3702ms or 74 ticks behind
-[04:35:25] [Server thread/INFO]: LustruousRiver has made the advancement [We Need to Go Deeper]
-[04:35:25] [Server thread/WARN]: Paragon_Ellis moved too quickly! 7.065276676367972,6.821600093841809,2.2366063799943277
-[04:35:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6050ms or 121 ticks behind
-[04:35:27] [Server thread/INFO]: JellyTofuFish has made the advancement [We Need to Go Deeper]
-[04:36:01] [Server thread/INFO]: [Paragon_Ellis: Set the time to 13000]
-[04:36:33] [Server thread/INFO]: [Paragon_Ellis: Set the time to 13000]
-[04:36:44] [Server thread/WARN]: LustruousRiver moved too quickly! -5.529871391424081,0.0,8.581283662499189
-[04:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
-[04:37:25] [Server thread/INFO]: Paragon_Ellis lost connection: Disconnected
-[04:37:25] [Server thread/INFO]: Paragon_Ellis left the game
-[04:43:38] [Server thread/INFO]: LustruousRiver has made the advancement [A Terrible Fortress]
-[04:44:21] [Server thread/INFO]: JellyTofuFish has made the advancement [A Terrible Fortress]
-[04:44:50] [Server thread/INFO]: JellyTofuFish has made the advancement [Not Today, Thank You]
-[04:45:38] [Server thread/INFO]: JellyTofuFish has made the advancement [Into Fire]
-[04:47:27] [Server thread/INFO]: LustruousRiver has made the advancement [Into Fire]
-[04:56:24] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
-[04:56:24] [Server thread/INFO]: JellyTofuFish left the game
-[04:57:15] [Server thread/INFO]: LustruousRiver lost connection: Disconnected
-[04:57:15] [Server thread/INFO]: LustruousRiver left the game
-[04:57:25] [Server thread/INFO]: Stopping the server
-[04:57:25] [Server thread/INFO]: Stopping server
-[04:57:25] [Server thread/INFO]: Saving players
-[04:57:25] [Server thread/INFO]: Saving worlds
-[04:57:25] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:overworld
-[04:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
-[04:57:26] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_nether
-[04:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:57:26] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_end
-[04:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:57:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
-[04:57:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:57:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:03:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:03:19] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[05:03:19] [Server thread/INFO]: Loading properties
+[05:03:19] [Server thread/INFO]: Default game type: SURVIVAL
+[05:03:19] [Server thread/INFO]: Generating keypair
+[05:03:19] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[05:03:20] [Server thread/INFO]: Using default channel type
+[05:03:20] [Server thread/INFO]: Preparing level "MP_with_seed"
+[05:03:21] [Server thread/INFO]: Reloading ResourceManager: Default, Auto-Plant_Saplings_1.0.zip, Crop_Harvesting_1.0.zip, Killer_Bunny_1.0.zip, Mobcutter_1.0.zip, Trader_Notify_1.0.zip, larger phantoms v1.0.0.zip, nether portal coords v1.0.0.zip, villager death messages v1.0.0.zip
+[05:03:22] [Server thread/INFO]: Loaded 6 recipes
+[05:03:22] [Server thread/WARN]: Found validation problem in {minecraft:entities/villager}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/villager/villager_head
+[05:03:22] [Server thread/INFO]: Loaded 30 custom command functions
+[05:03:22] [Server thread/INFO]: Loaded 815 advancements
+[05:03:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:03:24] [Server thread/INFO]: Preparing spawn area: 0%
+[05:03:25] [Server thread/INFO]: Preparing spawn area: 65%
+[05:03:25] [Server thread/INFO]: Time elapsed: 2732 ms
+[05:03:25] [Server thread/INFO]: Done (4.609s)! For help, type "help"
+[05:03:52] [User Authenticator #1/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
+[05:03:53] [Server thread/INFO]: JellyTofuFish[/127.0.0.1:54920] logged in with entity id 194 at (-642.8950393659605, 64.0, -1352.1968754671773)
+[05:03:53] [Server thread/INFO]: JellyTofuFish joined the game
+[05:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[05:04:00] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
+[05:04:00] [Server thread/INFO]: JellyTofuFish left the game
+[05:04:10] [Server thread/INFO]: Stopping the server
+[05:04:10] [Server thread/INFO]: Stopping server
+[05:04:10] [Server thread/INFO]: Saving players
+[05:04:10] [Server thread/INFO]: Saving worlds
+[05:04:10] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_end
+[05:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:04:10] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_nether
+[05:04:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:04:10] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:overworld
+[05:04:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
+[05:04:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:04:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:04:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
