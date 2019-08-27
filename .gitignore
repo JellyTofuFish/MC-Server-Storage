@@ -1,2 +1,5 @@
 # Don't track content of these folders
 server.properties
+
+[alias]
+    cmp = "!f() { git add -A && git commit -m \"update\" && git push; }; f"
