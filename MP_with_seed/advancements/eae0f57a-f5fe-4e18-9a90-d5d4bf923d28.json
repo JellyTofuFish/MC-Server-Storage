@@ -270,6 +270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-27 22:59:00 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-08-25 23:39:45 +0300"
@@ -595,15 +601,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_at_least_9_emerald": "2019-08-27 04:44:43 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-08-27 02:00:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-27 04:44:43 +0300"
     },
     "done": true
   },
@@ -1011,7 +1017,8 @@
       "minecraft:silverfish": "2019-08-25 23:52:03 +0300",
       "minecraft:enderman": "2019-08-27 04:27:16 +0300",
       "minecraft:zombie": "2019-08-26 00:24:42 +0300",
-      "minecraft:drowned": "2019-08-26 00:31:08 +0300"
+      "minecraft:drowned": "2019-08-26 00:31:08 +0300",
+      "minecraft:zombie_villager": "2019-08-27 23:25:20 +0300"
     },
     "done": false
   },
@@ -1048,6 +1055,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2019-08-25 23:37:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-08-28 03:46:04 +0300"
     },
     "done": true
   },
@@ -1902,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-08-28 02:57:15 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2019-08-25 23:44:00 +0300"
@@ -2157,6 +2176,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-25 23:46:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-08-27 22:59:00 +0300"
     },
     "done": true
   },
