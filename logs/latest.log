@@ -1,70 +1,157 @@
-[14:15:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:15:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:15:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:15:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:15:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:15:19] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[14:15:19] [Server thread/INFO]: Loading properties
-[14:15:19] [Server thread/INFO]: Default game type: SURVIVAL
-[14:15:19] [Server thread/INFO]: Generating keypair
-[14:15:19] [Server thread/INFO]: Starting Minecraft server on localhost:25565
-[14:15:19] [Server thread/INFO]: Using default channel type
-[14:15:22] [Server thread/INFO]: Preparing level "MP_with_seed"
-[14:15:22] [Server thread/INFO]: Reloading ResourceManager: Default, Auto-Plant_Saplings_1.0.zip, Crop_Harvesting_1.0.zip, Killer_Bunny_1.0.zip, Mobcutter_1.0.zip, Trader_Notify_1.0.zip, larger phantoms v1.0.0.zip, nether portal coords v1.0.0.zip, villager death messages v1.0.0.zip
-[14:15:22] [Server thread/INFO]: Loaded 6 recipes
-[14:15:23] [Server thread/WARN]: Found validation problem in {minecraft:entities/villager}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/villager/villager_head
-[14:15:23] [Server thread/INFO]: Loaded 30 custom command functions
-[14:15:23] [Server thread/INFO]: Loaded 815 advancements
-[14:15:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:15:24] [Server thread/INFO]: Preparing spawn area: 0%
-[14:15:24] [Server thread/INFO]: Preparing spawn area: 0%
-[14:15:24] [Server thread/INFO]: Preparing spawn area: 0%
-[14:15:25] [Server thread/INFO]: Preparing spawn area: 71%
-[14:15:25] [Server thread/INFO]: Time elapsed: 1755 ms
-[14:15:25] [Server thread/INFO]: Done (3.205s)! For help, type "help"
-[14:15:43] [User Authenticator #1/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
-[14:15:43] [Server thread/INFO]: JellyTofuFish[/127.0.0.1:52368] logged in with entity id 194 at (41.064758061378214, 82.0, -1786.8973463139969)
-[14:15:43] [Server thread/INFO]: JellyTofuFish joined the game
-[14:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
-[14:20:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
-[14:26:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2097, l='MP_with_seed', x=-4.37, y=77.00, z=-1735.77]
-[15:11:42] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7327, l='MP_with_seed', x=-5.07, y=77.00, z=-1736.74]
-[15:20:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/8324, l='MP_with_seed', x=-4.78, y=77.00, z=-1735.82]
-[15:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
-[15:22:46] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
-[15:22:46] [Server thread/INFO]: JellyTofuFish left the game
-[16:24:04] [User Authenticator #2/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
-[16:24:05] [Server thread/INFO]: JellyTofuFish[/127.0.0.1:53635] logged in with entity id 8505 at (52.58644878176921, 81.0, -1783.508243143298)
-[16:24:05] [Server thread/INFO]: JellyTofuFish joined the game
-[16:24:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
-[17:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
-[17:33:50] [Server thread/WARN]: JellyTofuFish moved too quickly! 7.315810789628472,-7.0,0.7261992804524198
-[17:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5971ms or 119 ticks behind
-[17:46:39] [Server thread/INFO]: [JellyTofuFish: Set own game mode to Creative Mode]
-[18:02:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/20422, l='MP_with_seed', x=-10.58, y=77.00, z=-1735.91]
-[18:08:08] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/21009, l='MP_with_seed', x=-11.15, y=77.00, z=-1736.56]
-[18:24:49] [Server thread/INFO]: [JellyTofuFish: Set own game mode to Survival Mode]
-[18:59:13] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
-[18:59:13] [Server thread/INFO]: JellyTofuFish left the game
-[18:59:17] [User Authenticator #3/INFO]: UUID of player JellyTofuFish is eae0f57a-f5fe-4e18-9a90-d5d4bf923d28
-[18:59:17] [Server thread/INFO]: JellyTofuFish[/127.0.0.1:55255] logged in with entity id 26850 at (37.645965162881275, 81.0, -1783.9295020350105)
-[18:59:17] [Server thread/INFO]: JellyTofuFish joined the game
-[19:26:24] [Server thread/INFO]: <JellyTofuFish> wwwwwwww
-[19:50:45] [Server thread/WARN]: JellyTofuFish moved too quickly! 0.18479885191385392,6.5,7.765770184434615
-[20:52:48] [Server thread/INFO]: JellyTofuFish has completed the challenge [Sniper Duel]
-[20:58:40] [Server thread/INFO]: [JellyTofuFish: Set the time to 1]
-[21:16:17] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
-[21:16:17] [Server thread/INFO]: JellyTofuFish left the game
-[21:16:51] [Server thread/INFO]: Stopping the server
-[21:16:52] [Server thread/INFO]: Stopping server
-[21:16:52] [Server thread/INFO]: Saving players
-[21:16:52] [Server thread/INFO]: Saving worlds
-[21:16:52] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_end
-[21:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:16:52] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_nether
-[21:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:16:52] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:overworld
-[21:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
-[21:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
+[00:23:33] [Server thread/INFO]: <LustruousRiver> well the farm is working at least
+[00:23:51] [Server thread/INFO]: <JellyTofuFish> isejo ta siena padaryti?
+[00:24:10] [Server thread/INFO]: <LustruousRiver> yeh
+[00:24:51] [Server thread/INFO]: <LustruousRiver> tik kad neperilgas tas farm tai reikia siek tiek kitur nubegti kad respwnintu mobs
+[00:26:40] [Server thread/INFO]: <LustruousRiver> ir cia kinda blaze farm irgi vienoje vietoje xD
+[00:28:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[00:28:22] [Server thread/WARN]: JellyTofuFish moved too quickly! 0.3775363827547764,-10.806526110008988,-0.4456448473006276
+[00:47:37] [Server thread/INFO]: <LustruousRiver> kas cia?
+[00:47:48] [Server thread/INFO]: <JellyTofuFish> pastatas, idk :D
+[00:47:51] [Server thread/INFO]: <LustruousRiver> welp ok xD
+[00:48:22] [Server thread/WARN]: LustruousRiver moved too quickly! -0.011147105872311158,0.20000004768371582,10.251297563007796
+[01:13:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[01:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
+[01:18:28] [Server thread/WARN]: LustruousRiver moved too quickly! -1.08593753238749,-1.4199999868869781,-10.02307366102417
+[01:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[01:23:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[01:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[01:38:35] [Server thread/WARN]: LustruousRiver moved too quickly! -0.09775365648899026,1.0013359791121417,-10.314960460514953
+[01:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[01:42:25] [Server thread/WARN]: JellyTofuFish moved too quickly! 0.0,10.465000184059136,0.0
+[01:43:38] [Server thread/WARN]: LustruousRiver moved too quickly! -9.315277939657221,-0.12129684053920187,4.097095469749661
+[01:43:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3075ms or 61 ticks behind
+[01:44:59] [Server thread/INFO]: LustruousRiver lost connection: Disconnected
+[01:44:59] [Server thread/INFO]: LustruousRiver left the game
+[01:45:07] [User Authenticator #5/INFO]: UUID of player LustruousRiver is 52ff33a2-1b1b-4f88-a0f2-b41dab98e706
+[01:45:07] [Server thread/INFO]: LustruousRiver[/25.15.188.161:58122] logged in with entity id 110245 at (-1058.2229840857417, 62.01976423453583, -606.6792202551172)
+[01:45:07] [Server thread/INFO]: LustruousRiver joined the game
+[01:48:41] [Server thread/WARN]: JellyTofuFish moved too quickly! -10.098890954087153,1.1216000461578375,0.006486702135532596
+[01:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2966ms or 59 ticks behind
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 1.9771926211199116,0.0,10.17872724864742
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.03613504911209,0.0,10.574049026429975
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.0945208567788995,0.0,10.96948037729885
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.152394303984238,0.0,11.365011878762289
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.2097952241381336,0.0,11.760635046852713
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.2667632680368115,0.0,12.156341731909606
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.3233303197366695,0.0,12.55212510960314
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.37952887608094,0.0,12.947978527672376
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.435388183762143,0.0,13.343895995356888
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.4909383669273666,0.0,13.73987161433297
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.5462027347180083,0.0,14.135900579023883
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.601206067019575,0.0,14.531978061496375
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.655970665728546,0.0,14.928099716610632
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.7105166025510243,0.0,15.324261630015599
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.764861942487869,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.8190229431079388,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.8730142366885048,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.9268489922790195,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 2.9805428636821034,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.0341061371952947,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.086855350892847,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.1347323545753625,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.1779879670948503,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.2167847685284414,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.2512118032061608,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.2813012065248586,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.3070430237933124,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.330210658721171,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Boat (vehicle of LustruousRiver) moved too quickly! 3.3510615296038395,0.0,15.707570732896784
+[01:53:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
+[02:08:59] [Server thread/INFO]: <LustruousRiver> tu turetum tiesiog prabegti pro visa kelia ir juos gali pullinti
+[02:09:57] [Server thread/INFO]: <LustruousRiver> oh yeh turi diamond pickaxe?
+[02:10:07] [Server thread/INFO]: <LustruousRiver> duok paskolint trumpam nether portal cia salia replacint
+[02:10:07] [Server thread/INFO]: <JellyTofuFish> nu jo
+[02:10:43] [Server thread/INFO]: <JellyTofuFish> o netureto to cobble stone isvis nebuti
+[02:10:54] [Server thread/INFO]: <LustruousRiver> kur nebuti?
+[02:10:57] [Server thread/INFO]: <JellyTofuFish> ir tu jiems tiesiog i kojas dauzai
+[02:11:00] [Server thread/INFO]: <JellyTofuFish> per viduri
+[02:11:08] [Server thread/INFO]: <LustruousRiver> jis per viduri kad jie nespawnintu ten
+[02:11:36] [Server thread/INFO]: <JellyTofuFish> tada vienu block zemiau galima butu padeti
+[02:12:26] [Server thread/INFO]: <LustruousRiver> bet tada mobai nematys taves kai begsi per tuneli
+[02:13:26] [Server thread/INFO]: <JellyTofuFish> bet ju zudymo procesas kazkoks labai awkward
+[02:13:45] [Server thread/INFO]: <LustruousRiver> na kaip sakiau tu sokineji per viduri kai jie agroina
+[02:13:52] [Server thread/INFO]: <LustruousRiver> tiesiog nubegi iki galo ir tiek
+[02:14:02] [Server thread/INFO]: <LustruousRiver> tada nereikia pries jokius blaze ir kitus mobus kovoti
+[02:14:24] [Server thread/INFO]: <JellyTofuFish> tai visa esme fermu, kad tau jie visiskai dmg nepadarytu ir tu tiesiog easy exp farmini
+[02:14:32] [Server thread/INFO]: <JellyTofuFish> arba drop loot
+[02:15:09] [Server thread/INFO]: <LustruousRiver> na kad jie dmg nedarytu as galeciau dabaigti farmo pabaiga kur juos pullini bet buvau per daug lazy xD
+[02:16:09] [Server thread/INFO]: <JellyTofuFish> man atrodo jos buna daug efektyvesnes, kai jos ne single row
+[02:16:20] [Server thread/INFO]: <JellyTofuFish> o multiple levels
+[02:17:12] [Server thread/INFO]: <LustruousRiver> na gali tiesiog ji ilgesni padaryti arba antra auksta padaryti irgi
+[02:17:30] [Server thread/INFO]: <JellyTofuFish> ir tada gal kokie iron golems juos aggroina
+[02:18:45] [Server thread/WARN]: JellyTofuFish moved too quickly! -10.277825732106919,1.1451067006516382,-0.45769836532613795
+[02:21:32] [Server thread/INFO]: <JellyTofuFish> tu man grazinsi mano pick ar ne?
+[02:21:44] [Server thread/INFO]: <LustruousRiver> na as dabar perstatau nether portal xD
+[02:22:01] [Server thread/INFO]: <LustruousRiver> jeigu nori gali ateiti toliau tiesiai prie to large nether dabar posuki i desine padariau
+[02:22:04] [Server thread/INFO]: <LustruousRiver> ten as dabar
+[02:23:30] [Server thread/INFO]: <JellyTofuFish> wait what
+[02:24:28] [Server thread/INFO]: <LustruousRiver> kas buvo?
+[02:25:24] [Server thread/INFO]: <JellyTofuFish> tiesiog nesupratau kur tu
+[02:25:25] [Server thread/INFO]: <LustruousRiver> as pakeliui i ta large nether fortress
+[02:25:33] [Server thread/INFO]: <LustruousRiver> ant to tilto dabar posuki i desine padariau
+[02:26:35] [Server thread/INFO]: <JellyTofuFish> na, as jau buvau prie tavo portala
+[02:27:26] [Server thread/INFO]: <LustruousRiver> na as jau griztu anyways
+[02:27:32] [Server thread/INFO]: <LustruousRiver> cia as nether portal i water temple padariau
+[02:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[02:29:23] [Server thread/INFO]: <LustruousRiver> kur tu dabar?
+[02:29:28] [Server thread/INFO]: <JellyTofuFish> prie tavo portal
+[02:30:00] [Server thread/WARN]: JellyTofuFish moved too quickly! -0.20653307847865676,0.0,-10.071776436601027
+[02:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[02:43:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[02:53:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[03:03:18] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/136569, l='MP_with_seed', x=-4.81, y=77.00, z=-1735.47]
+[03:18:54] [Server thread/WARN]: LustruousRiver moved too quickly! -0.32271680272077674,-1.1661092609382138,10.029868936257685
+[03:23:54] [Server thread/WARN]: JellyTofuFish moved too quickly! 0.18692092950190897,7.5,7.229120417478953
+[03:33:25] [Server thread/INFO]: LustruousRiver has made the advancement [Spooky Scary Skeleton]
+[03:33:27] [Server thread/INFO]: <LustruousRiver> finally
+[03:34:09] [Server thread/INFO]: <JellyTofuFish> bandei sita atrakinti?
+[03:34:38] [Server thread/INFO]: <LustruousRiver> yeh gal kokius 35 nuzudyt reikejo su looting 3 kol pagaliau gavau viena galva xD
+[03:35:03] [Server thread/INFO]: <JellyTofuFish> ah yeah
+[03:35:07] [Server thread/INFO]: <JellyTofuFish> dar neblogai
+[03:35:21] [Server thread/INFO]: <JellyTofuFish> man atrodo vidutiniskai dar reciau ta galva dropina
+[03:35:23] [Server thread/INFO]: <LustruousRiver> dunno per kita serveri kai zaidziau tai daug greiciau buvo
+[03:35:36] [Server thread/INFO]: <LustruousRiver> ja dropina 3% be looting 3 kiek zinau
+[03:38:54] [Server thread/WARN]: LustruousRiver moved too quickly! 10.297319621093507,0.0,-0.1822103899502565
+[03:44:07] [Server thread/INFO]: <LustruousRiver> why so many torches xD
+[03:44:25] [Server thread/INFO]: <JellyTofuFish> nes jeigu sunaikinu block
+[03:44:38] [Server thread/INFO]: <JellyTofuFish> jis per ta skyle kazkodel issilieja
+[03:45:03] [Server thread/INFO]: <JellyTofuFish> ir reikia resetinti kiekviena karta, kad ji skyle butu tuscia
+[03:45:09] [Server thread/INFO]: <LustruousRiver> hmm weird
+[03:48:14] [Server thread/INFO]: <JellyTofuFish> kuo activated rail skiriasi nuo power rail
+[03:48:27] [Server thread/INFO]: <LustruousRiver> no idea tiesiog power rail ir regulars as naudojas esu
+[03:48:35] [Server thread/INFO]: <LustruousRiver> bandziau ta detector bet worked kinda ass
+[03:48:45] [Server thread/INFO]: <JellyTofuFish> ok
+[03:48:54] [Server thread/WARN]: LustruousRiver moved too quickly! 0.08900397540173088,7.5,7.192603920419515
+[03:48:54] [Server thread/WARN]: JellyTofuFish moved too quickly! -0.06414561811926944,7.5,7.294668846942386
+[03:49:24] [Server thread/INFO]: <LustruousRiver> cia rails down darysy?
+[03:49:30] [Server thread/INFO]: <JellyTofuFish> yeah
+[03:49:34] [Server thread/INFO]: <JellyTofuFish> nezinau kodel tho
+[03:49:43] [Server thread/INFO]: <LustruousRiver> yeh I dont see much point xD
+[03:50:34] [Server thread/INFO]: <LustruousRiver> kad uzkilti tas cart i virsu reikia mazdaug 2 powered rail 2 normal rail
+[03:50:53] [Server thread/INFO]: <JellyTofuFish> yeah, as turiu juos
+[03:51:14] [Server thread/INFO]: <JellyTofuFish> bet gal tikrai veltui stengiuosi
+[03:51:16] [Server thread/INFO]: <LustruousRiver> galvojau gal nezinojau kaip uzkilti su rails
+[03:51:32] [Server thread/INFO]: <JellyTofuFish> oh geez
+[03:51:44] [Server thread/INFO]: <JellyTofuFish> ju ten kokie 8
+[03:51:55] [Server thread/INFO]: <LustruousRiver> yeh xD
+[03:55:18] [Server thread/INFO]: <LustruousRiver> as gal jau eisiu tada
+[03:55:26] [Server thread/INFO]: <JellyTofuFish> yeah, same
+[03:55:31] [Server thread/INFO]: <LustruousRiver> bye then
+[03:55:33] [Server thread/INFO]: LustruousRiver lost connection: Disconnected
+[03:55:33] [Server thread/INFO]: LustruousRiver left the game
+[03:55:34] [Server thread/INFO]: <JellyTofuFish> as tik cia truputi noriu pabaigti
+[04:14:15] [Server thread/INFO]: JellyTofuFish lost connection: Disconnected
+[04:14:15] [Server thread/INFO]: JellyTofuFish left the game
+[04:14:30] [Server thread/INFO]: Stopping the server
+[04:14:30] [Server thread/INFO]: Stopping server
+[04:14:30] [Server thread/INFO]: Saving players
+[04:14:30] [Server thread/INFO]: Saving worlds
+[04:14:30] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_nether
+[04:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:14:30] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:the_end
+[04:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:14:30] [Server thread/INFO]: Saving chunks for level 'MP_with_seed'/minecraft:overworld
+[04:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
+[04:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:14:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (MP_with_seed): All chunks are saved
